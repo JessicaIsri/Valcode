@@ -11,10 +11,11 @@ Sendo assim o sistema deve ser capaz de aceitar fontes de dados externas para al
 
 # Técnologias utilizadas na solução
 
-Java
-Spring Boot
-Angular
-Postman
+Java - O java foi utilizado devido as especificações do projeto, porém como vantagem principal o Java se apresenta como uma linguagem muito estavél e segura
+
+Spring Boot - O Spring Boot é um framework para java que permite o desenvolvimento web com base em apis REST e foi escolhido justamente por esse motivo
+
+Angular - O angular é um framework para Java Script, que tem como grandes beneficios a sua modularidade e produtividade 
 
 # Contribuições individuais/pessoais
 ## Desenvolimento dos Entity e Repositories: 
