@@ -139,3 +139,5 @@ Feito isso cada objeto é adicionado a um array que será retornado para o CsvFo
 
 
 # Aprendizados Efetivos
+Como principais apreendizados, devo ressaltar o uso do design patterns e um aprimoramento do conhecimento da linguagem java juntamente com o uso de frameworks para o desenvolvimento web.
+Outro ponto importante se dá na analise critica de dados, entender o que casa dado representa e como gerar valor a partir dele e claro sem infligir ou violar a lei geral de proteção de dados (lgpd), pois atualmente devemos ter o máximo cuidado com o uso e exposição de dados de terceiros.
